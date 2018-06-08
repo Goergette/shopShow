@@ -1,0 +1,2 @@
+# shopShow
+Angular Projekt
